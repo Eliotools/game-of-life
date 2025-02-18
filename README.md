@@ -6,7 +6,9 @@ For more information about Conway's Game of Life, visit [Wikipedia](https://en.w
 ## Features
 
 ➡️ Interactive grid where cells can be toggled by clicking
+
 ➡️ Click and drag to toggle multiple cells
+
 ➡️ Controls:
     ⮕ Next Step: Manually advance to the next generation
     ⮕ Play (1x): Run the simulation at normal speed
