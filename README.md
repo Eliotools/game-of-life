@@ -5,17 +5,15 @@ For more information about Conway's Game of Life, visit [Wikipedia](https://en.w
 
 ## Features
 
-➡️ Interactive grid where cells can be toggled by clicking
-
-➡️ Click and drag to toggle multiple cells
-
-➡️ Controls:
-    ⮕ Next Step: Manually advance to the next generation
-    ⮕ Play (1x): Run the simulation at normal speed
-    ⮕ Play (20x): Run the simulation at fast speed
-    ⮕ Stop: Pause the simulation
-    ⮕ Reset: Clear all cells
-    ⮕ Random: Randomly populate cells
+- Interactive grid where cells can be toggled by clicking
+- Click and drag to toggle multiple cells
+- Controls:
+  - Next Step: Manually advance to the next generation
+  - Play (1x): Run the simulation at normal speed
+  - Play (20x): Run the simulation at fast speed
+  - Stop: Pause the simulation
+  - Reset: Clear all cells
+  - Random: Randomly populate cells
 
 ## Rules
 
@@ -26,27 +24,27 @@ For more information about Conway's Game of Life, visit [Wikipedia](https://en.w
 
 ## Implementation Details
 
-➡️ 100x100 grid (10,000 cells)
-➡️ Uses CSS Grid for layout
-➡️ Optimized cell state calculations
-➡️ Responsive design with sticky controls
+- 100x100 grid (10,000 cells)
+- Uses CSS Grid for layout
+- Optimized cell state calculations
+- Responsive design with sticky controls
 
 ## How to Use
 
 1. Open `main.html` in a web browser
 2. Click cells to toggle their state
 3. Use the control buttons at the bottom to:
-    ⮕ Step through generations
-    ⮕ Start/stop automatic simulation
-    ⮕ Reset the grid
-    ⮕ Generate random patterns
+   - Step through generations
+   - Start/stop automatic simulation
+   - Reset the grid
+   - Generate random patterns
 
 ## Enjoy!
 
 Feel free to experiment with different patterns and speeds. Some interesting patterns to try:
-➡️ Create a "glider" that moves diagonally across the grid
-➡️ Build a "blinker" that oscillates between two states
-➡️ Design a "block" that remains stable
-➡️ Make a "beacon" that alternates between two forms
+- Create a "glider" that moves diagonally across the grid
+- Build a "blinker" that oscillates between two states
+- Design a "block" that remains stable
+- Make a "beacon" that alternates between two forms
 
 The Game of Life is a fascinating example of how simple rules can create complex behaviors. Have fun exploring the endless possibilities!
